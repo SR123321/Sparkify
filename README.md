@@ -13,7 +13,7 @@ You will also need to have software installed to run and execute a Jupyter Noteb
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
 Project Motivation:
-Sparkify is a fictional music streaming platform created by Udacity. For this project we are given log data of this platform in order to drive insights and create a machine learning pipeline to predict churn.The dataset (128 MB) we use here is a subset of the whole data. We use the power of spark to perform data manipulations and build our models for this problem.
+Sparkify is a fictional music streaming platform created by Udacity. For this project we are given log data of this platform in order to drive insights and create a machine learning pipeline to predict churn.The dataset (128 MB) we use here is a mini subset of the whole data. 
 
 File description:
 Sparkify.ipynb  is the main file of the project, it demonstrates the process of using pyspark to explore the data and build the model.
