@@ -22,6 +22,7 @@ Sparkify.ipynb  is the main file of the project, it demonstrates the process of 
 
 Result:
 Based on the model, We can see that UpPerSong (thumbs up/no of songs) is the most important feature in predicting user churn. Other important features include Days (length of the sessions), and DownPerSong (thumbs down/no of songs) for a user.
+Medium post:https://medium.com/p/9db8fdaff306/edit
 
 Licensing, Authors, and Acknowledgements:
 Must give credit to Udacity for the project. Feel free to use the code here as you would like!
