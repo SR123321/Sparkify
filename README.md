@@ -1,11 +1,11 @@
 # Sparkify
 Capstone project - Sparkify
 
-Table of Contents
-Installation
-Project Motivation
-Files Description
-Result
+Table of Contents:
+1. Installation
+2. Project Motivation
+3. Files Description
+4. Result
 
 Installation:
 This project uses the following software and Python libraries: Python, Spark, Pyspark, pandas, Matplotlib, Seaborn.
